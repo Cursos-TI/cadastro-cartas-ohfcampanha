@@ -2,7 +2,7 @@
 
 int main () {
 
-    /* Variáveis*/
+    /* Variáveis.*/
     char estado1[20], estado2[20];
     char cidade1[20], cidade2[20], codigo1[20], codigo2[20];
     int  pontosturisticos1, pontosturisticos2;
